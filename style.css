@@ -1,0 +1,250 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: center;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+}
+
+#logo
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+	width: 600px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+#zegar
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+.tile1
+{
+	margin: 10px;
+	width: 150px;
+	height: 62px;
+	background-image: url(img/tornado.jpg);
+	float: left;
+	font-size: 25px;
+	text-align: center;
+	padding: 40px;
+	font-weight: bold;
+	opacity: 1;
+}	
+
+.tile1:hover
+{
+	opacity: 0.5;
+}
+
+.tile2
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-image: url(img/orkan.jpg);
+	float: left;
+	font-size: 25px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+	opacity: 1;
+}	
+
+.tile2:hover
+{
+	opacity: 0.5;
+}
+
+.tile3
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-image: url(img/radar.jpg);
+	float: left;
+	font-size: 25px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+	opacity: 1;
+}	
+
+.tile3:hover
+{
+	opacity: 0.5;
+}
+
+.tile4
+{
+	margin: 10px;
+	width: 410px;
+	height: 72px;
+	background-image: url(img/blysk.jpg);
+	font-size: 50px;
+	text-align: center;
+	padding: 35px;
+	font-weight: bold;
+	opacity: 1;
+}	
+
+.tile4:hover
+{
+	opacity: 0.5;
+}
+
+.tile5
+{
+	margin: 10px;
+	width: 420px;
+	height: 164px;
+	background-color: #666666;
+	text-align: center;
+	text-align: justify;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}	
+
+.tile51
+{
+	margin: 10px;
+	width: 420px;
+	height: 164px;
+	background-image: url(img/burza.jpg);
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+	text-align: justify;
+}	
+
+.tile52
+{
+	margin: 10px;
+	width: 420px;
+	height: 164px;
+	background-image: url(img/traba.jpg);
+	text-align: center;
+	padding-left: 30px;
+	color: red;
+	font-weight: bold;
+	padding-right: 30px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+	text-align: justify;
+}	
+
+.tile53
+{
+	margin: 10px;
+	width: 420px;
+	height: 164px;
+	background-image: url(img/susza1.jpg);
+	text-align: center;
+	font-weight: bold;
+	text-align: justify;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+.tile54
+{
+	margin: 10px;
+	width: 420px;
+	height: 164px;
+	background-image: url(img/orkan1.jpg);
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	text-align: justify;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+.tile6
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-image: url(img/susza.jpg);
+	float: left;
+	font-size: 25px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+	opacity: 1;
+}
+
+.tile6:hover
+{
+	opacity: 0.5;
+}
+
+.yt
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: red;
+	float: left;
+	opacity: 1;
+}	
+
+.yt:hover
+{
+	opacity: 0.5;
+}
+
+.fb
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #4668b3;
+	float: left;
+	opacity: 1;
+}
+
+.fb:hover
+{
+	opacity: 0.5;
+}
+a.tilelink
+{
+	color: white;
+	text-decoration: none;
+}
